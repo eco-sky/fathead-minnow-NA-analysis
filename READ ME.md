@@ -24,4 +24,4 @@ This project was completed as part of EVSC 445: Environmental Data Analysis. Env
 
 ## Tools
 - **R & RStudio**  
-- **tidyverse**, **ggplot2**, and other R packages for reproducible workflows  
+- **inspection**, **ggplot2**, and other R packages for reproducible workflows  
